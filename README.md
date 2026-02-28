@@ -133,7 +133,3 @@ After the script ran and generated `threat_report.json`, I tried to open it with
 - `re` — pattern matching
 
 ---
-
-## Author
-
-Built by Oluwamuyiwa Fadare as part of a cybersecurity portfolio project.
