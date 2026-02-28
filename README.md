@@ -61,35 +61,7 @@ The threat report will be saved as `threat_report.json` in your project folder.
 ---
 
 ## Sample Output
-```json
-[
-    {
-        "type": "Brute Force Attempt",
-        "ip": "192.168.1.10",
-        "count": 5,
-        "mitre_id": "T1110",
-        "mitre_technique": "Brute Force"
-    },
-    {
-        "type": "Privilege Escalation",
-        "user": "administrator",
-        "time": "2024-01-01 10:01:00",
-        "mitre_id": "T1068",
-        "mitre_technique": "Exploitation for Privilege Escalation"
-    },
-    {
-        "type": "Suspicious Process Created",
-        "process": "c:\\windows\\system32\\mimikatz.exe",
-        "user": "user1",
-        "time": "2024-01-01 10:02:00",
-        "mitre_id": "T1059",
-        "mitre_technique": "Command and Scripting Interpreter"
-    }
-]
-```
-
-
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/VN6G1drv/project-adam.webp' border='0' alt='Screenshot-2023-09-05-at-17-54-28'/></a>
+<a href='https://postimg.cc/GB9yd2N0' target='_blank'><img src='https://i.postimg.cc/GB9yd2N0/Screenshot-2026-02-28-at-21-37-21.png' border='0' alt='Screenshot-2026-02-28-at-21-37-21'></a>
 <br />
 
 ---
