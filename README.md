@@ -61,7 +61,7 @@ The threat report will be saved as `threat_report.json` in your project folder.
 ---
 
 ## Sample Output
-<a href='https://postimg.cc/GB9yd2N0' target='_blank'><img src='https://i.postimg.cc/GB9yd2N0/Screenshot-2026-02-28-at-21-37-21.png' border='0' alt='Screenshot-2026-02-28-at-21-37-21'></a>
+<a href='https://postimg.cc/mhWw4vYV' target='_blank'><img src='https://i.postimg.cc/mhWw4vYV/Screenshot-2026-02-28-at-21-37-21.png' border='0' alt='Screenshot-2026-02-28-at-21-37-21'></a>
 <br />
 
 ---
