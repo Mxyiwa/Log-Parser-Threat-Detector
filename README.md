@@ -2,7 +2,7 @@
 
 A Python tool that reads Windows Event Logs, flags suspicious activity, and outputs a structured threat report mapped to MITRE ATT&CK technique IDs.
 
-I built this as my first cybersecurity portfolio project to get hands-on experience with detection engineering and understand how real threats show up in log data.
+I built this as a personal project to get hands-on experience with detection engineering and understand how real threats show up in log data.
 
 ---
 
@@ -87,6 +87,10 @@ The threat report will be saved as `threat_report.json` in your project folder.
     }
 ]
 ```
+
+
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/VN6G1drv/project-adam.webp' border='0' alt='Screenshot-2023-09-05-at-17-54-28'/></a>
+<br />
 
 ---
 
