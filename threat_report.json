@@ -1,0 +1,24 @@
+[
+    {
+        "type": "Brute Force Attempt",
+        "ip": "192.168.1.10",
+        "count": 5,
+        "mitre_id": "T1110",
+        "mitre_technique": "Brute Force"
+    },
+    {
+        "type": "Privilege Escalation",
+        "user": "administrator",
+        "time": "2024-01-01 10:01:00",
+        "mitre_id": "T1068",
+        "mitre_technique": "Exploitation for Privilege Escalation"
+    },
+    {
+        "type": "Suspicious Process Created",
+        "process": "c:\\windows\\system32\\mimikatz.exe",
+        "user": "user1",
+        "time": "2024-01-01 10:02:00",
+        "mitre_id": "T1059",
+        "mitre_technique": "Command and Scripting Interpreter"
+    }
+]

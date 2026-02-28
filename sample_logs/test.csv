@@ -1,0 +1,10 @@
+EventID,TimeCreated,IpAddress,SubjectUserName,NewProcessName
+4625,2024-01-01 10:00:01,192.168.1.10,admin,
+4625,2024-01-01 10:00:05,192.168.1.10,admin,
+4625,2024-01-01 10:00:10,192.168.1.10,admin,
+4625,2024-01-01 10:00:15,192.168.1.10,admin,
+4625,2024-01-01 10:00:20,192.168.1.10,admin,
+4672,2024-01-01 10:01:00,,administrator,
+4688,2024-01-01 10:02:00,,user1,C:\Windows\System32\mimikatz.exe
+
+
